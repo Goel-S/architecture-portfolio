@@ -7,7 +7,7 @@ This repository presents my **architecture portfolio**, highlighting hands-on de
 ## 👤 About Me
 
 **Shivendra Goel**  
-Java Architect with 12+ years of experience designing and delivering enterprise-grade systems.  
+Tech Lead with 12+ years of experience designing and delivering enterprise-grade systems.  
 Strong focus on **Clean Architecture**, **event-driven microservices**, **system reliability**, and **operational excellence**.
 
 ---
